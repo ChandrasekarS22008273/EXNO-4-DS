@@ -221,4 +221,4 @@ print(f"P-Value: {p}")
 ![image](https://github.com/Yamunaasri/EXNO-4-DS/assets/115707860/6adc4da7-421c-458f-9ec6-f6158aa6f731)
 
 ## RESULT:
-Thus, Feature selection and Feature scaling has been used on thegiven dataset.
+Thus, Feature selection and Feature scaling has been used on the given dataset.
